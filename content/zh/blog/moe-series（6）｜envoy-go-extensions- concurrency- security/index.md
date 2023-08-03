@@ -1,7 +1,7 @@
 ---
-title: "MoE 系列[六] - Envoy Go 扩展之并发安全"
+title: "MoE 系列（六） - Envoy Go 扩展之并发安全"
 authorlink: "https://github.com/sofastack"
-description: "MoE 系列[六] - Envoy Go 扩展之并发安全"
+description: "MoE 系列（六） - Envoy Go 扩展之并发安全"
 categories: "SOFAStack"
 tags: ["SOFAStack"]
 date: 2023-07-18T15:00:00+08:00
